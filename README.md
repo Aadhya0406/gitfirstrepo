@@ -1,3 +1,3 @@
 # gitfirstrepo
 First Repo. 
-This is from Git training by Vimal Daga
+## This is from Git training by Vimal Daga
